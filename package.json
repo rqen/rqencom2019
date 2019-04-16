@@ -1,0 +1,22 @@
+{
+  "name": "rqencom2019",
+  "version": "1.0.0",
+  "description": "rqen.com 2019",
+  "author": "Christian Røen Hansen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "gsap": "^2.1.2",
+    "intersection-observer": "^0.5.1",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
